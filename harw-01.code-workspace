@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../LAB/espidf/ai/glove"
+		},
+		{
+			"path": "gesture_recorder"
+		},
+		{
+			"path": "glove"
+		}
+	],
+	"settings": {}
+}

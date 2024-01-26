@@ -1,0 +1,21 @@
+timeStamp,Acc_X,Acc_Y,Acc_Z,Gyro_X,Gyro_Y,Gyro_Z,Roll,Pitch,Yaw,label
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",19.1,20.1,12.1,-0.9,-0.5,0.4,9.0,60.0,142.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",60.1,43.1,28.1,-0.8,-0.9,-0.4,-112.0,-47.0,-178.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",39.1,17.1,43.1,-0.6,0.8,0.6,111.0,-89.0,55.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",36.1,39.1,28.1,-1.0,-0.8,0.2,-84.0,-83.0,-114.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",51.1,22.1,11.1,-0.7,0.6,-0.5,-53.0,23.0,-74.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",53.1,12.1,25.1,-1.0,0.3,0.7,153.0,-75.0,39.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",51.1,8.1,44.1,-1.0,0.8,-0.1,-65.0,8.0,-8.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",33.1,12.1,26.1,0.6,-0.4,0.3,-76.0,14.0,172.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",19.1,42.1,28.1,0.9,-0.8,-0.5,176.0,-3.0,-128.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",48.1,0.1,20.1,0.8,0.2,-0.5,28.0,-50.0,163.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",92.1,13.1,33.1,0.2,-0.9,-0.1,-119.0,56.0,13.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",69.1,31.1,7.1,0.9,-0.4,0.6,-164.0,-76.0,-146.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",14.1,15.1,37.1,-0.4,0.7,0.7,20.0,-18.0,51.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",31.1,24.1,13.1,0.7,-0.6,-0.6,93.0,-40.0,-173.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",99.1,29.1,9.1,-0.6,-0.6,0.1,32.0,-31.0,-166.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",7.1,33.1,0.1,0.9,0.0,0.3,-89.0,-89.0,5.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",53.1,29.1,46.1,0.3,-0.9,0.8,151.0,33.0,140.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",68.1,37.1,26.1,0.2,0.9,-0.9,104.0,21.0,152.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",45.1,20.1,24.1,-0.8,0.6,0.7,166.0,43.0,4.0,pitch_up
+"time.struct_time(tm_year=2024, tm_mon=1, tm_mday=17, tm_hour=11, tm_min=3, tm_sec=45, tm_wday=2, tm_yday=17, tm_isdst=0)",71.1,29.1,35.1,-0.1,-0.2,-0.2,-82.0,87.0,63.0,pitch_up
