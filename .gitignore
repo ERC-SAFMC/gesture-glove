@@ -1,2 +1,3 @@
 glove/build
 glove/managed_components
+*.workspace

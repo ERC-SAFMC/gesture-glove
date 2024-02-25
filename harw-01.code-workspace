@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../../../LAB/espidf/ai/glove"
+			"path": "../../../PROJECTS/SAFMC/gesture-glove/glove"
 		},
 		{
 			"path": "gesture_recorder"
