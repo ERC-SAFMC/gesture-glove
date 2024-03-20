@@ -19,7 +19,7 @@ class DataHandler:
 
     def get_data(self):
         with self.lock:
-            return self.data[-50:] 
+            return self.data[-30:] 
 
     def parse_data(self, data):
         try:
